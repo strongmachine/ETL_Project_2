@@ -1,0 +1,44 @@
+team_name,team_id,team_conference,team_division
+Arizona Cardinals,ARI,NFC,NFC West
+Phoenix Cardinals,ARI,NFC,-1
+St. Louis Cardinals,ARI,NFC,-1
+Atlanta Falcons,ATL,NFC,NFC South
+Baltimore Ravens,BAL,AFC,AFC North
+Buffalo Bills,BUF,AFC,AFC East
+Carolina Panthers,CAR,NFC,NFC South
+Chicago Bears,CHI,NFC,NFC North
+Cincinnati Bengals,CIN,AFC,AFC North
+Cleveland Browns,CLE,AFC,AFC North
+Dallas Cowboys,DAL,NFC,NFC East
+Denver Broncos,DEN,AFC,AFC West
+Detroit Lions,DET,NFC,NFC North
+Green Bay Packers,GB,NFC,NFC North
+Houston Texans,HOU,AFC,AFC South
+Baltimore Colts,IND,AFC,-1
+Indianapolis Colts,IND,AFC,AFC South
+Jacksonville Jaguars,JAX,AFC,AFC South
+Kansas City Chiefs,KC,AFC,AFC West
+Los Angeles Chargers,LAC,AFC,AFC West
+San Diego Chargers,LAC,AFC,AFC West
+Los Angeles Rams,LAR,NFC,NFC West
+St. Louis Rams,LAR,NFC,-1
+Miami Dolphins,MIA,AFC,AFC East
+Minnesota Vikings,MIN,NFC,NFC North
+New England Patriots,NE,AFC,AFC East
+Boston Patriots,NE,AFC,-1
+New Orleans Saints,NO,NFC,NFC South
+New York Giants,NYG,NFC,NFC East
+New York Jets,NYJ,NFC,AFC East
+Los Angeles Raiders,LVR,AFC,-1
+Las Vegas Raiders,LVR,AFC,-1
+Oakland Raiders,LVR,AFC,AFC West
+Philadelphia Eagles,PHI,NFC,NFC East
+Pittsburgh Steelers,PIT,AFC,AFC North
+Seattle Seahawks,SEA,NFC,NFC West
+San Francisco 49ers,SF,NFC,NFC West
+Tampa Bay Buccaneers,TB,NFC,NFC South
+Houston Oilers,TEN,AFC,-1
+Tennessee Oilers,TEN,AFC,-1
+Tennessee Titans,TEN,AFC,AFC South
+Washington Redskins,WAS,NFC,NFC East
+Washington Football Team,WAS,NFC,NFC East
